@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kyleeautumnkim/react-portfolio/static/css/main.f855e6bc.css",
+    "main.js": "/kyleeautumnkim/react-portfolio/static/js/main.99be6bc5.js",
+    "static/js/453.ed3810f9.chunk.js": "/kyleeautumnkim/react-portfolio/static/js/453.ed3810f9.chunk.js",
+    "static/media/logo.svg": "/kyleeautumnkim/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kyleeautumnkim/react-portfolio/index.html",
+    "main.f855e6bc.css.map": "/kyleeautumnkim/react-portfolio/static/css/main.f855e6bc.css.map",
+    "main.99be6bc5.js.map": "/kyleeautumnkim/react-portfolio/static/js/main.99be6bc5.js.map",
+    "453.ed3810f9.chunk.js.map": "/kyleeautumnkim/react-portfolio/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.99be6bc5.js"
+  ]
+}
